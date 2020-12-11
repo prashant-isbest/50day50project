@@ -33,12 +33,12 @@ please wait till all the gifs image load to see the animations lag free
   
 <br>
 <br>
-<h1>Scroll Animation<h1>
+<h1>Split landing page<h1>
 <h4>Project 6</h4>
 <img alt = "" src="split Landing page/splitlanding.gif">
 
 <br>
 <br>
-<h1>Scroll Animation<h1>
+<h1>Blurry loading page<h1>
 <h4>Project 7</h4>
 <img alt = "" src="blurry loading/blurryloading.gif">
