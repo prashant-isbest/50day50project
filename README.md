@@ -42,3 +42,9 @@ please wait till all the gifs image load to see the animations lag free
 <h1>Blurry loading page<h1>
 <h4>Project 7</h4>
 <img alt = "" src="blurry loading/blurryloading.gif">
+
+<br>
+<br>
+<h1>Form wave animation<h1>
+<h4>Project 8</h4>
+<img alt = "" src="form wave animation/formwave.gif">
