@@ -52,6 +52,13 @@ please wait till all the gifs image load to see the animations lag free
 <br>
 <br>
 <h1>Sound board<h1>
-<h4>Project 8</h4>
+<h4>Project 9</h4>
 <img alt = "" src="sound board/soundboard.png">
 <p> Cannot add sounds here :(</p>
+
+<br>
+<br>
+<h1>Dad Jokes<h1>
+<h4>Project 10</h4>
+<img alt = "" src="Dad jokes/dadjoke.gif">
+<p> using fetch api to get dad jokes</p>
