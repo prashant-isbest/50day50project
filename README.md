@@ -68,3 +68,9 @@ please wait till all the gifs image load to see the animations lag free
 <h1>FAQ collapse<h1>
 <h4>Project 12</h4>
 <img alt = "" src="FAQ collapse/faq.gif">
+
+<br>
+<br>
+<h1>Random choice selector<h1>
+<h4>Project 13</h4>
+<img alt = "" src="random choice selector/choices.gif">
