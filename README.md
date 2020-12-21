@@ -91,4 +91,4 @@ please wait till all the gifs image load to see the animations lag free
 <br>
 <h1>Movie App<h1>
 <h4>Project 17</h4>
-<img alt = "" src="backgroung slider/sliderbg.gif">
+<img alt = "" src="background slider/sliderbg.gif">
